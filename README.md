@@ -21,4 +21,4 @@ and key factors driving customer retention and loss.
 ## Tools & Technologies
 - Power BI | DAX | Power Query | Power BI Service
 - Excel | MySQL
-- Data Cleaning | Data Modeling | Data Visualization
+- Data Cleaning | Data Modeling | Data Visualization.
