@@ -13,6 +13,7 @@ on a real-world pizza sales dataset containing 50,000+ orders worth $817.86K in 
 - Key insight: Friday peak sales, Classic Deluxe most ordered
 
 ### 2. Customer Churn Analysis
+- This project covers the complete data analytics pipeline — from raw data cleaning to interactive dashboard creation.-
 - Analyzed 3,774 e-commerce customers to identify 17% churn rate 
 and key factors driving customer retention and loss.
 - Tools: Excel, Power BI, DAX
